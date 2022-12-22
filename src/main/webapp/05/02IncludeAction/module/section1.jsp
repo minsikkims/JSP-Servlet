@@ -8,7 +8,6 @@ String img3 = request.getParameter("Img3");
 String img4 = request.getParameter("Img4");
 %>
 
-
 <!-- 메인배너 -->
 <section>
 	<div class="main-banner">
